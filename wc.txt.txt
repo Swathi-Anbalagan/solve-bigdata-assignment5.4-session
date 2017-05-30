@@ -1,0 +1,6 @@
+hellooo,1
+big,2
+data,3
+hadoop,4
+hive,5
+query,6
